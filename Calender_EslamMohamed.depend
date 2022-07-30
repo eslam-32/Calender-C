@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1656793513 source:e:\courses\c\calender_eslammohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calender.c"
+
+1656793429 e:\courses\c\calender_eslammohamed\calender.c
+	"calender.h"
+
+1656793429 e:\courses\c\calender_eslammohamed\calender.h
+
+1656797871 source:d:\c\calender_eslammohamed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calender.c"
+
+1656855029 d:\c\calender_eslammohamed\calender.c
+	"calender.h"
+
+1656855029 d:\c\calender_eslammohamed\calender.h
+
